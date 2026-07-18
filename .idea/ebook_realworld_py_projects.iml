@@ -3,6 +3,12 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Python-Real-World-Projects-main/project_0/src/project_0.egg-info" />
+      <excludeFolder url="file://$MODULE_DIR$/Python-Real-World-Projects-main/project_1_1/src/project_1_1.egg-info" />
+      <excludeFolder url="file://$MODULE_DIR$/Python-Real-World-Projects-main/project_1_2/src/project_1_2.egg-info" />
+      <excludeFolder url="file://$MODULE_DIR$/Python-Real-World-Projects-main/project_1_3/src/project_1_3.egg-info" />
+      <excludeFolder url="file://$MODULE_DIR$/Python-Real-World-Projects-main/project_1_4/src/project_1_4.egg-info" />
+      <excludeFolder url="file://$MODULE_DIR$/Python-Real-World-Projects-main/project_1_5/src/project_1_5.egg-info" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="jdk" jdkName="uv (ebook_realworld_py_projects)" jdkType="Python SDK" />
