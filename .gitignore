@@ -12,3 +12,6 @@ wheels/
 ~*
 .idea/
 
+.python-version
+
+
